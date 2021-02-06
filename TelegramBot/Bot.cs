@@ -24,7 +24,7 @@ namespace PomodoroApp.TelegramBot
 
         public Bot(IServiceScopeFactory ScopeFactory)
         {
-            botClient = new TelegramBotClient("1485530612:AAE-Luwocei-Rkv9iCm_oO64qOL93XRRVfA");
+            botClient = new TelegramBotClient("");
             scopeFactory = ScopeFactory;
             botClient.OnMessage += Bot_OnMessage;
             botClient.StartReceiving();
