@@ -1,5 +1,5 @@
 # PomodoroApp
-https://pomodorotest.herokuapp.com/
+https://pomodorotracker.ru/
 
 SPA приложение списка задач, реализующее технику помодоро (разбиение задачи на промежутки по 25 минут)
 
